@@ -1,0 +1,7 @@
+D:\viola\KULIAH\Pemoggraman II\P2_1_714230001\P2_1_714230001\obj\Debug\P2_1_714230001.csproj.AssemblyReference.cache
+D:\viola\KULIAH\Pemoggraman II\P2_1_714230001\P2_1_714230001\obj\Debug\P2_1_714230001.csproj.CoreCompileInputs.cache
+D:\viola\KULIAH\Pemoggraman II\P2_1_714230001\P2_1_714230001\bin\Debug\P2_1_714230001.exe.config
+D:\viola\KULIAH\Pemoggraman II\P2_1_714230001\P2_1_714230001\bin\Debug\P2_1_714230001.exe
+D:\viola\KULIAH\Pemoggraman II\P2_1_714230001\P2_1_714230001\bin\Debug\P2_1_714230001.pdb
+D:\viola\KULIAH\Pemoggraman II\P2_1_714230001\P2_1_714230001\obj\Debug\P2_1_714230001.exe
+D:\viola\KULIAH\Pemoggraman II\P2_1_714230001\P2_1_714230001\obj\Debug\P2_1_714230001.pdb
