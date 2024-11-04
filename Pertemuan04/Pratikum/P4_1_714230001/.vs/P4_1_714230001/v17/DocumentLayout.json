@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan04\\Pratikum\\P4_1_714230001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3817EC2-AB89-43EC-A77E-6F5712C65C7E}|P4_1_714230001\\P4_1_714230001.csproj|d:\\viola\\kuliah\\pemrograman ii\\pemrogramanii_714230001\\pertemuan04\\pratikum\\p4_1_714230001\\p4_1_714230001\\book_714230001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3817EC2-AB89-43EC-A77E-6F5712C65C7E}|P4_1_714230001\\P4_1_714230001.csproj|solutionrelative:p4_1_714230001\\book_714230001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3817EC2-AB89-43EC-A77E-6F5712C65C7E}|P4_1_714230001\\P4_1_714230001.csproj|d:\\viola\\kuliah\\pemrograman ii\\pemrogramanii_714230001\\pertemuan04\\pratikum\\p4_1_714230001\\p4_1_714230001\\dvd_714230001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3817EC2-AB89-43EC-A77E-6F5712C65C7E}|P4_1_714230001\\P4_1_714230001.csproj|solutionrelative:p4_1_714230001\\dvd_714230001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3817EC2-AB89-43EC-A77E-6F5712C65C7E}|P4_1_714230001\\P4_1_714230001.csproj|d:\\viola\\kuliah\\pemrograman ii\\pemrogramanii_714230001\\pertemuan04\\pratikum\\p4_1_714230001\\p4_1_714230001\\producttest_714230001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3817EC2-AB89-43EC-A77E-6F5712C65C7E}|P4_1_714230001\\P4_1_714230001.csproj|solutionrelative:p4_1_714230001\\producttest_714230001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3817EC2-AB89-43EC-A77E-6F5712C65C7E}|P4_1_714230001\\P4_1_714230001.csproj|d:\\viola\\kuliah\\pemrograman ii\\pemrogramanii_714230001\\pertemuan04\\pratikum\\p4_1_714230001\\p4_1_714230001\\product_714230001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3817EC2-AB89-43EC-A77E-6F5712C65C7E}|P4_1_714230001\\P4_1_714230001.csproj|solutionrelative:p4_1_714230001\\product_714230001.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book_714230001.cs",
+              "DocumentMoniker": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan04\\Pratikum\\P4_1_714230001\\P4_1_714230001\\Book_714230001.cs",
+              "RelativeDocumentMoniker": "P4_1_714230001\\Book_714230001.cs",
+              "ToolTip": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan04\\Pratikum\\P4_1_714230001\\P4_1_714230001\\Book_714230001.cs",
+              "RelativeToolTip": "P4_1_714230001\\Book_714230001.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:09:30.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DVD_714230001.cs",
+              "DocumentMoniker": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan04\\Pratikum\\P4_1_714230001\\P4_1_714230001\\DVD_714230001.cs",
+              "RelativeDocumentMoniker": "P4_1_714230001\\DVD_714230001.cs",
+              "ToolTip": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan04\\Pratikum\\P4_1_714230001\\P4_1_714230001\\DVD_714230001.cs",
+              "RelativeToolTip": "P4_1_714230001\\DVD_714230001.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:08:33.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product_714230001.cs",
+              "DocumentMoniker": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan04\\Pratikum\\P4_1_714230001\\P4_1_714230001\\Product_714230001.cs",
+              "RelativeDocumentMoniker": "P4_1_714230001\\Product_714230001.cs",
+              "ToolTip": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan04\\Pratikum\\P4_1_714230001\\P4_1_714230001\\Product_714230001.cs",
+              "RelativeToolTip": "P4_1_714230001\\Product_714230001.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:58:51.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductTest_714230001.cs",
+              "DocumentMoniker": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan04\\Pratikum\\P4_1_714230001\\P4_1_714230001\\ProductTest_714230001.cs",
+              "RelativeDocumentMoniker": "P4_1_714230001\\ProductTest_714230001.cs",
+              "ToolTip": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan04\\Pratikum\\P4_1_714230001\\P4_1_714230001\\ProductTest_714230001.cs",
+              "RelativeToolTip": "P4_1_714230001\\ProductTest_714230001.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:57:53.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

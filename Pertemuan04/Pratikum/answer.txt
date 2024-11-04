@@ -1,0 +1,11 @@
+14. Ketika variabel `myType` diberi akses `protected`, artinya variabel ini hanya bisa diakses di dalam kelas yang mendeklarasikannya atau di kelas turunan. Ini yang menyebabkan munculnya error jika dicoba di luar konteks tersebut.
+
+19. Pada kelas `Product_714230001`, sudah ada metode yang bersifat `public`, sehingga variabel yang sebelumnya ditandai sebagai `protected` sekarang bisa diakses dari kelas-kelas yang mewarisinya.
+
+24. Yang muncul adalah "DVD" karena objek `myProduct` mengubah nilai dari variabel `myType` menjadi "DVD". Saat program dieksekusi, ia berjalan dari atas ke bawah, sehingga nilai yang baru ini ditampilkan.
+
+8. Nilai dari `type` dan `title` tidak muncul karena keduanya tidak diteruskan ke kelas induknya. Kelas `Book` hanya mengatur `pageCount` tanpa memberi informasi tentang `type` dan `title` kepada kelas induk. Ini disebut constructor chaining, di mana constructor kelas turunan harus memanggil constructor kelas induk untuk memastikan semua data yang dibutuhkan diinisialisasi.
+
+12. Output ditampilkan karena kelas `Book` memanggil constructor dari kelas induknya. Ini memastikan bahwa nilai `myType` dan `myTitle` yang diatur di kelas `Book` dapat diteruskan ke kelas induk. Pemanggilan ini dilakukan dengan menggunakan `base()` dan menyertakan parameter `type` dan `title`.
+
+19. Perbedaan antara objek `product2` dan `product1` disebabkan oleh fakta bahwa di kelas `DVD_714230001`, nilai `MyType` dan `MyTitle` diatur langsung di dalam konstruktornya, tanpa memanggil constructor dari kelas induk (`Product_714230001`).
