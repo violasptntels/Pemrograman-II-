@@ -56,5 +56,10 @@ namespace P5_3_714230001
         {
             this.Close();
         }
+
+        private void cbYa_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

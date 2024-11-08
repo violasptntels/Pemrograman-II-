@@ -78,6 +78,7 @@
             this.cbYa.TabIndex = 3;
             this.cbYa.Text = "Ya";
             this.cbYa.UseVisualStyleBackColor = true;
+            this.cbYa.CheckedChanged += new System.EventHandler(this.cbYa_CheckedChanged);
             // 
             // rb_ios
             // 
