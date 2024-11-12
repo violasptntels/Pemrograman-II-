@@ -1,0 +1,10 @@
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan06\Pratikum\P6_3_714230001\P6_3_714230001\bin\Debug\P6_3_714230001.exe.config
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan06\Pratikum\P6_3_714230001\P6_3_714230001\bin\Debug\P6_3_714230001.exe
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan06\Pratikum\P6_3_714230001\P6_3_714230001\bin\Debug\P6_3_714230001.pdb
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan06\Pratikum\P6_3_714230001\P6_3_714230001\obj\Debug\P6_3_714230001.csproj.AssemblyReference.cache
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan06\Pratikum\P6_3_714230001\P6_3_714230001\obj\Debug\P6_3_714230001.Form1.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan06\Pratikum\P6_3_714230001\P6_3_714230001\obj\Debug\P6_3_714230001.Properties.Resources.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan06\Pratikum\P6_3_714230001\P6_3_714230001\obj\Debug\P6_3_714230001.csproj.GenerateResource.cache
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan06\Pratikum\P6_3_714230001\P6_3_714230001\obj\Debug\P6_3_714230001.csproj.CoreCompileInputs.cache
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan06\Pratikum\P6_3_714230001\P6_3_714230001\obj\Debug\P6_3_714230001.exe
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan06\Pratikum\P6_3_714230001\P6_3_714230001\obj\Debug\P6_3_714230001.pdb
