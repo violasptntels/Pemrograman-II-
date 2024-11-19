@@ -53,9 +53,10 @@
             // 
             this.LabelHuruf.AutoSize = true;
             this.LabelHuruf.Font = new System.Drawing.Font("Trebuchet MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LabelHuruf.Location = new System.Drawing.Point(38, 28);
+            this.LabelHuruf.Location = new System.Drawing.Point(57, 43);
+            this.LabelHuruf.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LabelHuruf.Name = "LabelHuruf";
-            this.LabelHuruf.Size = new System.Drawing.Size(41, 18);
+            this.LabelHuruf.Size = new System.Drawing.Size(62, 26);
             this.LabelHuruf.TabIndex = 0;
             this.LabelHuruf.Text = "Huruf";
             this.LabelHuruf.Click += new System.EventHandler(this.label1_Click);
@@ -64,9 +65,10 @@
             // 
             this.LabelAngka.AutoSize = true;
             this.LabelAngka.Font = new System.Drawing.Font("Trebuchet MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LabelAngka.Location = new System.Drawing.Point(38, 67);
+            this.LabelAngka.Location = new System.Drawing.Point(57, 103);
+            this.LabelAngka.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LabelAngka.Name = "LabelAngka";
-            this.LabelAngka.Size = new System.Drawing.Size(44, 18);
+            this.LabelAngka.Size = new System.Drawing.Size(66, 26);
             this.LabelAngka.TabIndex = 1;
             this.LabelAngka.Text = "Angka";
             // 
@@ -74,9 +76,10 @@
             // 
             this.LabelEmai.AutoSize = true;
             this.LabelEmai.Font = new System.Drawing.Font("Trebuchet MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LabelEmai.Location = new System.Drawing.Point(38, 106);
+            this.LabelEmai.Location = new System.Drawing.Point(57, 163);
+            this.LabelEmai.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LabelEmai.Name = "LabelEmai";
-            this.LabelEmai.Size = new System.Drawing.Size(40, 18);
+            this.LabelEmai.Size = new System.Drawing.Size(63, 26);
             this.LabelEmai.TabIndex = 2;
             this.LabelEmai.Text = "Email";
             // 
@@ -85,9 +88,10 @@
             this.Label4.AutoSize = true;
             this.Label4.Font = new System.Drawing.Font("Trebuchet MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Label4.ForeColor = System.Drawing.Color.Red;
-            this.Label4.Location = new System.Drawing.Point(38, 135);
+            this.Label4.Location = new System.Drawing.Point(57, 208);
+            this.Label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.Label4.Name = "Label4";
-            this.Label4.Size = new System.Drawing.Size(124, 18);
+            this.Label4.Size = new System.Drawing.Size(185, 26);
             this.Label4.TabIndex = 3;
             this.Label4.Text = "* Angka 1 > Angka 2";
             // 
@@ -95,9 +99,10 @@
             // 
             this.LabelAngka1.AutoSize = true;
             this.LabelAngka1.Font = new System.Drawing.Font("Trebuchet MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LabelAngka1.Location = new System.Drawing.Point(38, 162);
+            this.LabelAngka1.Location = new System.Drawing.Point(57, 249);
+            this.LabelAngka1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LabelAngka1.Name = "LabelAngka1";
-            this.LabelAngka1.Size = new System.Drawing.Size(55, 18);
+            this.LabelAngka1.Size = new System.Drawing.Size(82, 26);
             this.LabelAngka1.TabIndex = 4;
             this.LabelAngka1.Text = "Angka 1";
             // 
@@ -105,45 +110,50 @@
             // 
             this.LabelAngka2.AutoSize = true;
             this.LabelAngka2.Font = new System.Drawing.Font("Trebuchet MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LabelAngka2.Location = new System.Drawing.Point(38, 202);
+            this.LabelAngka2.Location = new System.Drawing.Point(57, 311);
+            this.LabelAngka2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LabelAngka2.Name = "LabelAngka2";
-            this.LabelAngka2.Size = new System.Drawing.Size(55, 18);
+            this.LabelAngka2.Size = new System.Drawing.Size(82, 26);
             this.LabelAngka2.TabIndex = 5;
             this.LabelAngka2.Text = "Angka 2";
             // 
             // txtHuruf
             // 
             this.txtHuruf.Font = new System.Drawing.Font("Trebuchet MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtHuruf.Location = new System.Drawing.Point(188, 23);
+            this.txtHuruf.Location = new System.Drawing.Point(282, 35);
+            this.txtHuruf.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtHuruf.Name = "txtHuruf";
-            this.txtHuruf.Size = new System.Drawing.Size(100, 23);
+            this.txtHuruf.Size = new System.Drawing.Size(148, 30);
             this.txtHuruf.TabIndex = 6;
             this.txtHuruf.Leave += new System.EventHandler(this.txtHuruf_Leave);
             // 
             // txtAngka
             // 
             this.txtAngka.Font = new System.Drawing.Font("Trebuchet MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtAngka.Location = new System.Drawing.Point(188, 62);
+            this.txtAngka.Location = new System.Drawing.Point(282, 95);
+            this.txtAngka.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtAngka.Name = "txtAngka";
-            this.txtAngka.Size = new System.Drawing.Size(100, 23);
+            this.txtAngka.Size = new System.Drawing.Size(148, 30);
             this.txtAngka.TabIndex = 7;
             this.txtAngka.TextChanged += new System.EventHandler(this.txtAngka_TextChanged);
             // 
             // txtEmail
             // 
             this.txtEmail.Font = new System.Drawing.Font("Trebuchet MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtEmail.Location = new System.Drawing.Point(188, 101);
+            this.txtEmail.Location = new System.Drawing.Point(282, 155);
+            this.txtEmail.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.txtEmail.Name = "txtEmail";
-            this.txtEmail.Size = new System.Drawing.Size(100, 23);
+            this.txtEmail.Size = new System.Drawing.Size(148, 30);
             this.txtEmail.TabIndex = 8;
             this.txtEmail.TextChanged += new System.EventHandler(this.txtEmail_TextChanged);
             // 
             // textAngka1
             // 
             this.textAngka1.Font = new System.Drawing.Font("Trebuchet MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textAngka1.Location = new System.Drawing.Point(188, 157);
+            this.textAngka1.Location = new System.Drawing.Point(282, 242);
+            this.textAngka1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textAngka1.Name = "textAngka1";
-            this.textAngka1.Size = new System.Drawing.Size(100, 23);
+            this.textAngka1.Size = new System.Drawing.Size(148, 30);
             this.textAngka1.TabIndex = 9;
             this.textAngka1.TextChanged += new System.EventHandler(this.textAngka1_TextChanged);
             this.textAngka1.Leave += new System.EventHandler(this.textAngka1_Leave);
@@ -151,9 +161,10 @@
             // textAngka2
             // 
             this.textAngka2.Font = new System.Drawing.Font("Trebuchet MS", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textAngka2.Location = new System.Drawing.Point(188, 197);
+            this.textAngka2.Location = new System.Drawing.Point(282, 303);
+            this.textAngka2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.textAngka2.Name = "textAngka2";
-            this.textAngka2.Size = new System.Drawing.Size(100, 23);
+            this.textAngka2.Size = new System.Drawing.Size(148, 30);
             this.textAngka2.TabIndex = 10;
             this.textAngka2.TextChanged += new System.EventHandler(this.textAngka2_TextChanged);
             this.textAngka2.Leave += new System.EventHandler(this.textAngka2_Leave);
@@ -174,9 +185,10 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(357, 292);
+            this.BackColor = System.Drawing.Color.LightSalmon;
+            this.ClientSize = new System.Drawing.Size(536, 449);
             this.Controls.Add(this.textAngka2);
             this.Controls.Add(this.textAngka1);
             this.Controls.Add(this.txtEmail);
@@ -188,8 +200,10 @@
             this.Controls.Add(this.LabelEmai);
             this.Controls.Add(this.LabelAngka);
             this.Controls.Add(this.LabelHuruf);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.epWarning)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.epWrong)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.epCorrect)).EndInit();

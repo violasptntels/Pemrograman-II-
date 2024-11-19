@@ -171,5 +171,10 @@ namespace P6_3_714230001
                 }
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
