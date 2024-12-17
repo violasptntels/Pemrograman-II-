@@ -45,7 +45,7 @@ namespace p7_1_714230001
                     "Informasi Data Submit",
                     MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-                Size = new Size(345, 470);
+                Size = new Size(516, 719);
             }
             else
             {

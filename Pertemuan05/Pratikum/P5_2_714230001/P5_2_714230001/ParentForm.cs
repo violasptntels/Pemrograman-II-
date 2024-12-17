@@ -53,5 +53,10 @@ namespace P5_2_714230001
             newChild.MdiParent = this;
             newChild.Show();
         }
+
+        private void FileMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

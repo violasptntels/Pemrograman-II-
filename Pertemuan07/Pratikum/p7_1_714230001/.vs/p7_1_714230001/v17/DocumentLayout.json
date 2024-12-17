@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{9889FE15-1102-41E1-A531-84C344F5B7C5}|p7_1_714230001\\p7_1_714230001.csproj|solutionrelative:p7_1_714230001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9889FE15-1102-41E1-A531-84C344F5B7C5}|p7_1_714230001\\p7_1_714230001.csproj|d:\\viola\\kuliah\\pemrograman ii\\pemrogramanii_714230001\\pertemuan07\\pratikum\\p7_1_714230001\\p7_1_714230001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9889FE15-1102-41E1-A531-84C344F5B7C5}|p7_1_714230001\\p7_1_714230001.csproj|D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan07\\Pratikum\\p7_1_714230001\\p7_1_714230001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9889FE15-1102-41E1-A531-84C344F5B7C5}|p7_1_714230001\\p7_1_714230001.csproj|solutionrelative:p7_1_714230001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "p7_1_714230001\\Form1.cs",
               "ToolTip": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan07\\Pratikum\\p7_1_714230001\\p7_1_714230001\\Form1.cs",
               "RelativeToolTip": "p7_1_714230001\\Form1.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAmwI0AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAAGsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T07:02:04.827Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan07\\Pratikum\\p7_1_714230001\\p7_1_714230001\\Form1.cs [Design]",
               "RelativeToolTip": "p7_1_714230001\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T06:41:36.675Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-19T06:41:36.675Z"
             }
           ]
         }

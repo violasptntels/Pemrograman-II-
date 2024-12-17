@@ -47,7 +47,7 @@
             this.WindowMenuItem});
             this.MdiMenu.Location = new System.Drawing.Point(0, 0);
             this.MdiMenu.Name = "MdiMenu";
-            this.MdiMenu.Size = new System.Drawing.Size(800, 36);
+            this.MdiMenu.Size = new System.Drawing.Size(800, 33);
             this.MdiMenu.TabIndex = 1;
             this.MdiMenu.Text = "menuStrip1";
             // 
@@ -57,8 +57,9 @@
             this.NewMenuItem,
             this.ExitMenuItem});
             this.FileMenuItem.Name = "FileMenuItem";
-            this.FileMenuItem.Size = new System.Drawing.Size(54, 30);
+            this.FileMenuItem.Size = new System.Drawing.Size(54, 29);
             this.FileMenuItem.Text = "&File";
+            this.FileMenuItem.Click += new System.EventHandler(this.FileMenuItem_Click);
             // 
             // NewMenuItem
             // 
@@ -80,21 +81,21 @@
             this.WindowCascadeMenuItem,
             this.WindowTileMenuItem});
             this.WindowMenuItem.Name = "WindowMenuItem";
-            this.WindowMenuItem.Size = new System.Drawing.Size(94, 30);
+            this.WindowMenuItem.Size = new System.Drawing.Size(94, 29);
             this.WindowMenuItem.Text = "&Window";
             this.WindowMenuItem.Click += new System.EventHandler(this.windowToolStripMenuItem_Click);
             // 
             // WindowCascadeMenuItem
             // 
             this.WindowCascadeMenuItem.Name = "WindowCascadeMenuItem";
-            this.WindowCascadeMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.WindowCascadeMenuItem.Size = new System.Drawing.Size(179, 34);
             this.WindowCascadeMenuItem.Text = "&Cascade";
             this.WindowCascadeMenuItem.Click += new System.EventHandler(this.WindowCascadeMenuItem_Click);
             // 
             // WindowTileMenuItem
             // 
             this.WindowTileMenuItem.Name = "WindowTileMenuItem";
-            this.WindowTileMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.WindowTileMenuItem.Size = new System.Drawing.Size(179, 34);
             this.WindowTileMenuItem.Text = "&Tile";
             this.WindowTileMenuItem.Click += new System.EventHandler(this.WindowTileMenuItem_Click);
             // 
