@@ -1,12 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan09\\P9_714230001\\Pratikum\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan09\\Pratikum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C625FBC-D4AF-4068-8BD9-1B28AF91C019}|P9_714230001\\P9_714230001.csproj|d:\\viola\\kuliah\\pemrograman ii\\pemrogramanii_714230001\\pertemuan09\\pratikum\\p9_714230001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C625FBC-D4AF-4068-8BD9-1B28AF91C019}|P9_714230001\\P9_714230001.csproj|solutionrelative:p9_714230001\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan09\\Pratikum\\P9_714230001\\Form1.cs",
+              "RelativeDocumentMoniker": "P9_714230001\\Form1.cs",
+              "ToolTip": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan09\\Pratikum\\P9_714230001\\Form1.cs [Design]*",
+              "RelativeToolTip": "P9_714230001\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:14:23.808Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
