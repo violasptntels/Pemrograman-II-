@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace P10_714230001
+namespace P11_714230001
 {
     internal class Koneksi
     {
