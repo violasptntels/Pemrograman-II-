@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan11\\Pratikum\\P10_714230001\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D508898F-A30A-4AA0-ACAA-DA2E326AC16B}|P10_714230001\\P11_714230001.csproj|d:\\viola\\kuliah\\pemrograman ii\\pemrogramanii_714230001\\pertemuan11\\pratikum\\p10_714230001\\p10_714230001\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D508898F-A30A-4AA0-ACAA-DA2E326AC16B}|P10_714230001\\P11_714230001.csproj|solutionrelative:p10_714230001\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D508898F-A30A-4AA0-ACAA-DA2E326AC16B}|P10_714230001\\P11_714230001.csproj|D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan11\\Pratikum\\P10_714230001\\p10_714230001\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D508898F-A30A-4AA0-ACAA-DA2E326AC16B}|P10_714230001\\P11_714230001.csproj|solutionrelative:p10_714230001\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D508898F-A30A-4AA0-ACAA-DA2E326AC16B}|P10_714230001\\P11_714230001.csproj|D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan11\\Pratikum\\P10_714230001\\p10_714230001\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D508898F-A30A-4AA0-ACAA-DA2E326AC16B}|P10_714230001\\P11_714230001.csproj|solutionrelative:p10_714230001\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D508898F-A30A-4AA0-ACAA-DA2E326AC16B}|P10_714230001\\P11_714230001.csproj|D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan11\\Pratikum\\P10_714230001\\p10_714230001\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D508898F-A30A-4AA0-ACAA-DA2E326AC16B}|P10_714230001\\P11_714230001.csproj|solutionrelative:p10_714230001\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D508898F-A30A-4AA0-ACAA-DA2E326AC16B}|P10_714230001\\P11_714230001.csproj|d:\\viola\\kuliah\\pemrograman ii\\pemrogramanii_714230001\\pertemuan11\\pratikum\\p10_714230001\\p10_714230001\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D508898F-A30A-4AA0-ACAA-DA2E326AC16B}|P10_714230001\\P11_714230001.csproj|solutionrelative:p10_714230001\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D508898F-A30A-4AA0-ACAA-DA2E326AC16B}|P10_714230001\\P11_714230001.csproj|D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan11\\Pratikum\\P10_714230001\\p10_714230001\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D508898F-A30A-4AA0-ACAA-DA2E326AC16B}|P10_714230001\\P11_714230001.csproj|solutionrelative:p10_714230001\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D508898F-A30A-4AA0-ACAA-DA2E326AC16B}|P10_714230001\\P11_714230001.csproj|D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan11\\Pratikum\\P10_714230001\\p10_714230001\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,11 +77,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "M_nilai.cs",
               "DocumentMoniker": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan11\\Pratikum\\P10_714230001\\P10_714230001\\model\\M_nilai.cs",
               "RelativeDocumentMoniker": "P10_714230001\\model\\M_nilai.cs",
@@ -94,30 +94,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FormNilai.cs",
               "DocumentMoniker": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan11\\Pratikum\\P10_714230001\\P10_714230001\\view\\FormNilai.cs",
               "RelativeDocumentMoniker": "P10_714230001\\view\\FormNilai.cs",
               "ToolTip": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan11\\Pratikum\\P10_714230001\\P10_714230001\\view\\FormNilai.cs",
               "RelativeToolTip": "P10_714230001\\view\\FormNilai.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAmwAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T18:17:48.161Z"
+              "WhenOpened": "2025-01-01T18:17:48.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FormNilai.cs [Design]",
               "DocumentMoniker": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan11\\Pratikum\\P10_714230001\\P10_714230001\\view\\FormNilai.cs",
               "RelativeDocumentMoniker": "P10_714230001\\view\\FormNilai.cs",
               "ToolTip": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan11\\Pratikum\\P10_714230001\\P10_714230001\\view\\FormNilai.cs [Design]",
               "RelativeToolTip": "P10_714230001\\view\\FormNilai.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T18:13:50.718Z"
+              "WhenOpened": "2025-01-01T18:13:50.718Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ParentForm.cs [Design]",
               "DocumentMoniker": "D:\\viola\\KULIAH\\Pemrograman II\\PemrogramanII_714230001\\Pertemuan11\\Pratikum\\P10_714230001\\P10_714230001\\view\\ParentForm.cs",
               "RelativeDocumentMoniker": "P10_714230001\\view\\ParentForm.cs",

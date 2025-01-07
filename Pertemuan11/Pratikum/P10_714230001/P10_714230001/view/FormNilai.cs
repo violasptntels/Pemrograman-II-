@@ -176,5 +176,10 @@ namespace P11_714230001.view
             }
 
         }
+
+        private void checkBoxKategori_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
