@@ -1,0 +1,249 @@
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.csproj.AssemblyReference.cache
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.Properties.Resources.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.csproj.GenerateResource.cache
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.csproj.CoreCompileInputs.cache
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.exe
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.pdb
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.Form1.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\P10_714230001.exe.config
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\P10_714230001.exe
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\P10_714230001.pdb
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\BouncyCastle.Cryptography.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\Google.Protobuf.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Hash.xxHash.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\MySql.Data.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Buffers.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.IO.Pipelines.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Memory.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Numerics.Vectors.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\ZstdSharp.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\BouncyCastle.Cryptography.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\Google.Protobuf.pdb
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\Google.Protobuf.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Hash.xxHash.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\MySql.Data.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Buffers.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.IO.Pipelines.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Memory.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Numerics.Vectors.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_7142.F1A42156.Up2Date
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.ParentForm.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.view.FormNilai.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\P10_714230001.exe.config
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\P10_714230001.exe
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\P10_714230001.pdb
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\BouncyCastle.Cryptography.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\Google.Protobuf.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\K4os.Hash.xxHash.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\MySql.Data.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.Buffers.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.IO.Pipelines.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.Memory.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.Numerics.Vectors.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\ZstdSharp.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\BouncyCastle.Cryptography.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\Google.Protobuf.pdb
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\Google.Protobuf.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\K4os.Hash.xxHash.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\MySql.Data.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.Buffers.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.IO.Pipelines.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.Memory.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.Numerics.Vectors.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\obj\Debug\P11_714230001.csproj.AssemblyReference.cache
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\obj\Debug\P11_714230001.Form1.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\obj\Debug\P10_714230001.Properties.Resources.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.FormBarang.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\obj\Debug\P11_714230001.view.FormNilai.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.FormTransaksiBarang.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.ParentForm.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\obj\Debug\P11_714230001.csproj.GenerateResource.cache
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\obj\Debug\P11_714230001.csproj.CoreCompileInputs.cache
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\obj\Debug\P11_7142.F1A42156.Up2Date
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\obj\Debug\P10_714230001.exe
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan11\Tugas\P10_714230001\P10_714230001\obj\Debug\P10_714230001.pdb
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\P10_714230001.exe.config
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\P10_714230001.exe
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\P10_714230001.pdb
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\BouncyCastle.Cryptography.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\Google.Protobuf.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Hash.xxHash.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\MySql.Data.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Buffers.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.IO.Pipelines.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Memory.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Numerics.Vectors.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\ZstdSharp.dll
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\BouncyCastle.Cryptography.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\Google.Protobuf.pdb
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\Google.Protobuf.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Hash.xxHash.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\MySql.Data.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Buffers.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.IO.Pipelines.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Memory.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Numerics.Vectors.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.csproj.AssemblyReference.cache
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.Form1.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.Properties.Resources.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.FormBarang.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.view.FormNilai.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.FormTransaksiBarang.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.ParentForm.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.StartUp.resources
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.csproj.GenerateResource.cache
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.csproj.CoreCompileInputs.cache
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_7142.F1A42156.Up2Date
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.exe
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.pdb
+D:\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.FormLogin.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\P10_714230001.exe.config
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\P10_714230001.exe
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\P10_714230001.pdb
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\Google.Protobuf.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Hash.xxHash.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\MySql.Data.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Buffers.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.IO.Pipelines.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Memory.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Numerics.Vectors.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\ZstdSharp.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\Google.Protobuf.pdb
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\Google.Protobuf.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Hash.xxHash.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\MySql.Data.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Buffers.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.IO.Pipelines.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Memory.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Numerics.Vectors.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.csproj.AssemblyReference.cache
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.Form1.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.Properties.Resources.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.FormBarang.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.FormLogin.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.view.FormNilai.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.FormTransaksiBarang.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.ParentForm.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.StartUp.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.csproj.GenerateResource.cache
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.csproj.CoreCompileInputs.cache
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_7142.F1A42156.Up2Date
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.exe
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan12\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.pdb
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\P10_714230001.exe.config
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\P10_714230001.exe
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\P10_714230001.pdb
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\EPPlus.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\EPPlus.Interfaces.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\EPPlus.System.Drawing.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\Google.Protobuf.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Hash.xxHash.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\MySql.Data.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Buffers.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Drawing.Common.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.IO.Pipelines.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Memory.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Numerics.Vectors.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\ZstdSharp.dll
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\EPPlus.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\Google.Protobuf.pdb
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\Google.Protobuf.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\K4os.Hash.xxHash.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\MySql.Data.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Buffers.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Drawing.Common.pdb
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Drawing.Common.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.IO.Pipelines.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Memory.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Numerics.Vectors.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.csproj.AssemblyReference.cache
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.Form1.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.Properties.Resources.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.FormBarang.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.FormLogin.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.view.FormNilai.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.FormTransaksiBarang.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.ParentForm.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.view.StartUp.resources
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.csproj.GenerateResource.cache
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_714230001.csproj.CoreCompileInputs.cache
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\obj\Debug\P11_7142.F1A42156.Up2Date
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.exe
+C:\Data Viola\viola\KULIAH\Pemrograman II\PemrogramanII_714230001\Pertemuan13\Pratikum\P10_714230001\P10_714230001\obj\Debug\P10_714230001.pdb
